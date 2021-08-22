@@ -63,4 +63,4 @@
 * **Describe potential uncertainties relating to the impacts of using your model**:
   * **Math or software problems**:
   * **Real-world risks: who, what, when or how?**:
-  * **Describe any unexpected or result**:
+* **Describe any unexpected or results**:
