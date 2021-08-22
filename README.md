@@ -3,11 +3,11 @@
 
 ### Basic Information
 
-* **Person or organization developing model**: Manu Sharma, `manusharma@gwu.edu`
+* **Person or organization developing model**: Manu Sharma `manusharma@gwu.edu`, Rui Cheng `ruicheng@xyz.com` and Charles Bloomer `charlesbloomer@xyz.com`
 * **Model date**: August, 2021
 * **Model version**: 1.0
 * **License**: MIT
-* **Model implementation code**: [DNSC_6301_Example_Project.ipynb](DNSC_6301_Example_Project.ipynb)
+* **Model implementation code**: [GWU_DNSC_6301_Group_23.ipynb](GWU_DNSC_6301_Group_23.ipynb)
 
 ### Intended Use
 * **Primary intended uses**: This model is an *example* probability of default classifier, with an *example* use case for determining eligibility for a credit line increase.
@@ -42,3 +42,25 @@
 * **Source of test data**: GWU Blackboard, email `jphall@gwu.edu` for more information
 * **Number of rows in test data**: 7,500
 * **State any differences in columns between training and test data**: None
+
+### Model details 
+* **Columns used as inputs in the final model**:
+* **Column(s) used as target(s) in the final model**:
+* **Type of model**:
+* **Software used to implement the model**:
+* **Version of the modeling software**:
+* **Hyperparameters or other settings of your model**:
+
+### Quantitative analysis:
+* **Metrics used to evaluate your final model**:
+* **State the final values of the metrics for all data: training, validation, and test data**:
+* **Provide any plots related to your data or final model -- be sure to label the plots!**:
+
+### Ethical considerations:
+* **Describe potential negative impacts of using your model**:
+  * **Math or software problems**:
+  * **Real-world risks: who, what, when or how**:
+* **Describe potential uncertainties relating to the impacts of using your model**:
+  * **Math or software problems**:
+  * **Real-world risks: who, what, when or how?**:
+  * **Describe any unexpected or result**:
